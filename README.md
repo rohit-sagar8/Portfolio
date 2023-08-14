@@ -1,3 +1,5 @@
+![image](https://github.com/rohit-sagar8/Portfolio/assets/110589421/1637c11d-176a-4b11-bf3f-e13b3cdc0cf2)
+
 # Project: Dynamic Portfolio Website Development
 
 # Overview:
